@@ -20,12 +20,29 @@ The **family** dict (dictionary, equivalent of Objects in JS):
 **Hint**: this is a clone from *Begin with JS - #10 Javascript Objects* Replit [exercise](https://repl.it/student/submissions/5855972). Now to be translated into Python and a static API
 
 
+## Family Members
+
+John Doe
+33 Years old
+Male
+Lucky Numbers: 7, 13, 22
+
+Jane Doe
+35 Years old
+Female
+Lucky Numbers: 10, 14, 3
+
+Jimmy Doe
+5 Years old
+Male
+Lucky Numbers: 1
+
 ## Endpoints
 
 This API must have two endpoints, both return JSON:
 
 #### `/members`
-Which returns the information from the Doe's family. E.g:
+Which returns the information from the Doe's family.. E.g:
 
 + status_code: This key represents the [HTTP_status_code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes).
 + data: an Object that contains:
