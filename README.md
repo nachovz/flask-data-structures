@@ -22,20 +22,20 @@ The **family** dict (dictionary, equivalent of Objects in JS):
 
 ## Family Members
 
-John Doe
-33 Years old
-Male
-Lucky Numbers: 7, 13, 22
+John Doe  
+33 Years old  
+Male  
+Lucky Numbers: 7, 13, 22  
 
-Jane Doe
-35 Years old
-Female
-Lucky Numbers: 10, 14, 3
+Jane Doe  
+35 Years old  
+Female  
+Lucky Numbers: 10, 14, 3  
 
-Jimmy Doe
-5 Years old
-Male
-Lucky Numbers: 1
+Jimmy Doe  
+5 Years old  
+Male  
+Lucky Numbers: 1  
 
 ## Endpoints
 
