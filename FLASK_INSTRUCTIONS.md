@@ -2,8 +2,12 @@
 
 To install Flask C9 you must:
 
+0. Make sure you're using Python 3.6.6 of newer:
+```pyenv install 3.6.6``` This could take a while
+```pyenv global 3.6.6```
+
 1. Run the install command:
-```sudo easy_install Flask```
+```sudo pip install Flask```
 
 2. Create a file, (```app.py```). Do not use flask.py, it can generate conflicts with the flask application.
 
