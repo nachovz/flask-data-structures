@@ -12,7 +12,7 @@ The family tree must be represented as a object tree structure, i.e.: each perso
 
 The API must expose an endpoint that returns the full list of family members ordered by oldest to younger.
 
-The API must expose an endpoint that returns a specific member of the family tree by their id (which should be unique) and the information about its children, parents and significant other.
+The API must expose an endpoint that returns a specific member of the family tree by their id (which should be unique) and the information about its children and parents.
 
 ### Technologies
 
